@@ -1,0 +1,6 @@
+name = "my-worker"
+type = "javascript"
+
+account_id = "cd18a0e83c5a11d842823acab3e827bd"
+workers_dev = true
+main = "src/index.js"
